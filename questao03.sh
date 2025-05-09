@@ -2,7 +2,7 @@
 
 ### Nao apague a linha acima! ###
 
-cd ../maria
+cd ~/maria
 
 cp /etc/passwd .
 cp /etc/group .
