@@ -2,6 +2,6 @@
 
 ### Nao apague a linha acima! ###
 
-cd joao
+cd ~/joao
 
 cp -r /etc/systemd .
